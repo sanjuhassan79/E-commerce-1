@@ -1,0 +1,14 @@
+.product{
+   display: flex;
+}
+.fa-star{
+   color: yellow;
+}
+/* 
+button{
+   background-color: blue;
+   width: 150px;
+   height: 30px;
+   border: 1px solid lightgray;
+   border-radius: 5px;
+} */

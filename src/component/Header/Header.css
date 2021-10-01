@@ -1,0 +1,19 @@
+.menu {
+    background-color: white;
+    display: flex;
+    padding: 14px 50px;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo-img img{
+    width: 150px;
+}
+
+.menuItem a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    padding: 20px;
+    font-weight: 300;
+    text-transform: uppercase;
+}
